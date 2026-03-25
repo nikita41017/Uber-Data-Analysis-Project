@@ -1,6 +1,6 @@
 # Uber-Data-Analysis-Project
 
-#📌 #Overview
+📌 Overview
 
 This project focuses on analyzing Uber trip data to uncover meaningful insights about travel patterns, trip purposes, and time-based trends. The goal is to transform raw data into actionable insights using data analysis and visualization techniques.
 
